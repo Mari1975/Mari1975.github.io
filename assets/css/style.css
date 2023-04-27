@@ -14,10 +14,15 @@ nav {
 * {
     font-family: 'Roboto';
   }
+
+
 footer{
         background-color: coral;
         
-        
+}
+ 
+footer i{
+    size: 5px;
 }
 footer p{
     text-align:left;
@@ -25,6 +30,9 @@ footer p{
 }
 .card-text {
     color:white;
+}
+.card h-100 img{
+  max-height: 150px;
 }
 
 p{
@@ -46,6 +54,6 @@ h5 {
     background-color:coral ;
 }
     
-nav svg{
+/*nav svg{
     size: 5pt;
-}
+}*/
