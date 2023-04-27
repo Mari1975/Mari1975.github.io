@@ -4,30 +4,12 @@ body {
     background-color: black;
 
 }
-/*nav {
-    font-size: 8pt;
-    background-color: coral;
-    
-    
-}*/
+   
 .navbar-brand img {
     height: 8vh;
     
 }
-* {
-    font-family: 'Roboto';
-  }
 
-
-footer{
-        background-color: coral;
-        
-}
- 
-/*footer p{
-    text-align:center;
-    color: white;
-}*/
 .card-text {
     color:white;
 }
@@ -43,26 +25,12 @@ p{
     text-align: justify;
     color: white;
 }
-quienessomos img{
 
-    background-color: coral;
-}
-h3 {
-    text-align: center;
-    color: white;
-    background-color: coral;
-}
 
 h5 {
     text-align: center;
     color: white;
 }
 
-#fondocard{
-    
-    background-color:coral ;
-}
-    
-/*nav svg{
-    size: 5pt;
-}*/
+
+
