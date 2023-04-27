@@ -16,12 +16,13 @@ nav {
   }
 footer{
         background-color: coral;
-        height: 50px;
-        text-align:left;
-        color: white;
-        font: size 9px;;
+        
+        
 }
-
+footer p{
+    text-align:left;
+    color: white;
+}
 .card-text {
     color:white;
 }
